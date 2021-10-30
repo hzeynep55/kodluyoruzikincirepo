@@ -1,0 +1,122 @@
+h1{
+    color: aqua;
+    margin-left: 540px;
+    padding-top: 25px;
+    font-family: 'Franklin Gothic Medium';
+}
+.baslik{
+    background-color: seagreen;
+}
+.yesil{
+    background-color: greenyellow;
+    width: 400px;
+}
+.yesil>p {
+    font-family: 'Franklin Gothic Medium';
+    font-size: 50px;
+    color: green;
+    padding-left: 70px;
+    
+
+}
+.menu{
+    list-style: none;
+    background-color: springgreen;
+    width: 348px;
+    padding-left: 0px;
+    margin-left: 420px;
+    font-family: 'Franklin Gothic Medium';
+    border-color: green;
+   
+    
+    
+}
+.menu>li{
+    font-size: 24px;
+    display: inline;
+    width: 24px;
+    background-color: springgreen;
+    
+    
+}
+ul > li:hover {
+    background-color:#004d00;
+    
+    
+}
+a:hover{
+    color: white;
+}
+a{
+    text-decoration:none 
+}
+article>p{
+    font-size: 18px;
+    font-family: 'Thoma';
+    margin-left: 420px;
+}
+.anasayfa{
+    height:90px;
+    
+}
+.urun{
+    padding-top: 5px;
+    font-family:"Verdana";
+    padding-left: 50px;
+    color: white;
+    
+
+    
+}
+.ul_urun{
+    list-style: none;
+}
+
+.icerik{
+    background-color: #808000;
+    margin-left: 420px;
+    width: 348px;
+    border-radius: 4px;
+}
+h5{
+    color: red;
+    font-family: 'Verdana';
+    padding-left: 10px;
+}
+.misyon_vizyon{
+    font-family: 'Verdana';
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#sol
+{
+float:left;
+width:500px;
+height:300px;
+background-color:#98FB98;
+margin-left: 160px;
+
+}
+#sag
+{
+float:left;
+width:500px;
+height:300px;
+background:greenyellow;
+}
+.bitki{
+    margin-left: 20px;
+    margin-right: 90px;
+    font-family: "Verdana";
+}
+.bitki_isim{
+    margin-right: 320px;
+    font-family: "Verdana";
+}
+hr{
+margin-right: 400px;
+margin-left: 20px;
+}
+.resim{
+    margin-left: 30px;
+}
